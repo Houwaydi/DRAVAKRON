@@ -11,8 +11,9 @@ No dice, no luck, no draws — just pure tactical combat.
 
 ## 📚 Rulebooks
 
-- 📘 [Download English Rulebook (PDF)](files/dravakron-en.pdf)
-- 📗 [Download Arabic Rulebook (PDF)](files/dravakron-ar.pdf)
+- 📘 [Download English Rulebook (PDF)](dravakron-en.pdf)
+- 📗 [Download Arabic Rulebook (PDF)](dravakron-ar.pdf)
+
 
 ---
 
