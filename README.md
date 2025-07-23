@@ -53,13 +53,16 @@ as long as:
 
 ## 📸 Game Images
 
-![Game Image 1](https://github.com/Houwaydi/DRAVAKRON/blob/main/image1.jpg?raw=true)
-![Game Image 2](https://github.com/Houwaydi/DRAVAKRON/blob/main/image2.jpg?raw=true)
-![Game Image 3](https://github.com/Houwaydi/DRAVAKRON/blob/main/image3.jpg?raw=true)
-![Game Image 4](https://github.com/Houwaydi/DRAVAKRON/blob/main/image4.jpg?raw=true)
-![Game Image 5](https://github.com/Houwaydi/DRAVAKRON/blob/main/image5.jpg?raw=true)
-![Game Image 6](https://github.com/Houwaydi/DRAVAKRON/blob/main/image6.jpg?raw=true)
-![Game Image 7](https://github.com/Houwaydi/DRAVAKRON/blob/main/image7.jpg?raw=true)
+## 🖼️ Game Images
+
+![Game Image 1](https://github.com/Houwaydi/DRAVAKRON/raw/main/1%20(1).jpg)
+![Game Image 2](https://github.com/Houwaydi/DRAVAKRON/raw/main/1%20(7).jpg)
+![Game Image 3](https://github.com/Houwaydi/DRAVAKRON/raw/main/1%20(8).jpg)
+![Game Image 4](https://github.com/Houwaydi/DRAVAKRON/raw/main/1%20(9).jpg)
+![Game Image 5](https://github.com/Houwaydi/DRAVAKRON/raw/main/1%20(10).jpg)
+![Game Image 6](https://github.com/Houwaydi/DRAVAKRON/raw/main/1%20(11).jpg)
+![Game Image 7](https://github.com/Houwaydi/DRAVAKRON/raw/main/1%20(12).jpg)
+
 
 
 Designed and created entirely by:  
