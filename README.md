@@ -1,4 +1,4 @@
-# 🎲 DRAVAKRON - Strategic Board Game
+# DRAVAKRON - Strategic Board Game
 
 **DRAVAKRON** is a fully original, deep strategic board game designed on a 192-square board.  
 It’s played between two sides: **Draxeth** (Red) and **Nerovax** (Black).  
